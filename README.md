@@ -35,17 +35,17 @@ El bootcamp está estructurado en módulos semanales que cubren los fundamentos 
 ## 📁 Estructura del Repositorio
 ```
 BootcampIngenieriaDatos/
-├── Modulo_01_Fundamentos/
-├── Modulo_02_Python/
-├── Modulo_03_SQL/
-├── Modulo_04_ETL/
-├── Modulo_05_BigQuery/
-├── Modulo_06_Airflow/
-├── Modulo_07_Kafka/
-├── Modulo_08_APIs/
-├── Modulo_09_Docker/
-├── Modulo_10_Deploy/
-├── Modulo_11_Proyecto_Final/
+├── Modulo_01
+├── Modulo_02
+├── Modulo_03
+├── Modulo_04
+├── Modulo_05
+├── Modulo_06
+├── Modulo_07
+├── Modulo_08
+├── Modulo_09
+├── Modulo_10
+├── Modulo_11
 └── README.md
 ```
 
